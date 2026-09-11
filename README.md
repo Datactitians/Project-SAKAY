@@ -5,7 +5,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199903?style=for-the-badge&logo=Leaflet&logoColor=white)
 
-An interactive geospatial application designed to analyze and visualize the environmental exposure of schools in the Davao Region using the **Analytic Hierarchy Process (AHP)**. This project is based on a research paper I conducted, now transformed into a full-stack functional application.
+Predictive crowd management web application for Mindanao's public transport terminals
 
 ## How to Run the Program
 
